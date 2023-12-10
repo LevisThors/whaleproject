@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+TC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+TC:wght@700&family=Rowdies:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fjalla+One&family=Mulish:wght@800&family=Noto+Sans+TC:wght@700&family=Rowdies:wght@700&display=swap');
+
+
+#title-admin{
+    color: #0fa;
+    font-family: 'Bebas Neue', cursive;
+    padding: 0;
+    margin-bottom: 0;
+    font-size: 2.3rem;
+}
+
+.darker{
+    overflow:hidden;
+
+    background-color: #18263a;
+    color: rgba(255, 255, 255, 0.815);
+    border: 2px solid #0fa;
+   }
+
+.buttton{
+    border: none;
+    background: transparent;
+}
+
+.darker .buttton{
+    text-decoration: none;
+    color:rgb(3, 163, 110)
+    
+}
+.darker .buttton:hover{
+    scale: 1.1;
+    color:#0fa;
+}
+
+.table-head{
+    color: white;
+}
+
+th, td{
+    border-color: rgba(50, 110, 92, 0.301) !important;
+    
+}
+
+.table-field:hover{
+    box-shadow: rgba(44, 148, 99, 0.1) 0px 10px 16px;
+}
+
+
+.color-white{
+    color:rgb(216, 216, 216);
+    font-size: 1.2rem;
+}
+
+.color-white input{
+    color: rgb(31, 31, 31) !important;
+}
+
+.single-trans-table{
+    margin: 0;
+}
+
+
+.text-xl{
+    font-size: 1.5rem;
+}
+
+.bg-navy{
+    background-color: #18263a;
+}
+
